@@ -1,0 +1,16 @@
+Available stocks are
+BCHARTS/ICBITUSD-Bitcoin
+BNC2/MWA_XZC_ETH-Etherium
+BNC2/MWA_XC_XRP-Ripple
+BNC2/MWA_ZCL_LTC-Litecoin
+BNC2/MWA_ZCL_DOGE_USD-DogeCoin
+BNC2/MWA_APPC_BNB-Binance Coin
+BNC2/GWA_QAU-Quantum
+BNC2/MWA_PRL_NEO_USD-Neo
+BNC2/GWA_ADA-Cardano
+In order to access unlimited stocks and access premium stock data 
+you must sigh up for Quandl at 
+https://www.quandl.com/sign-up-modal?defaultModal=showSignUp
+
+If you would like access to stock data on lower profile cryptocurrencies 
+at tspeer252@gmail.com
