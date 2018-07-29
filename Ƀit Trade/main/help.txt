@@ -9,8 +9,8 @@ BNC2/GWA_QAU-Quantum
 BNC2/MWA_PRL_NEO_USD-Neo
 BNC2/GWA_ADA-Cardano
 In order to access unlimited stocks and access premium stock data 
-you must sigh up for Quandl at 
+you must sign up for Quandl at 
 https://www.quandl.com/sign-up-modal?defaultModal=showSignUp
 
 If you would like access to stock data on lower profile cryptocurrencies 
-at tspeer252@gmail.com
+contact tspeer252@gmail.com
