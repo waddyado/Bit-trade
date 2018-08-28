@@ -8,6 +8,7 @@ BNC2/MWA_APPC_BNB-Binance Coin
 BNC2/GWA_QAU-Quantum
 BNC2/MWA_PRL_NEO_USD-Neo
 BNC2/GWA_ADA-Cardano
+please enter your api-key into config.txt
 In order to access unlimited stocks and access premium stock data 
 you must sign up for Quandl at 
 https://www.quandl.com/sign-up-modal?defaultModal=showSignUp

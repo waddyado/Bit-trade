@@ -19,16 +19,24 @@ def StockofDay():
     if g == 'n':
         print('Ok')
 
-
-
-
+def intro():
+   print('______      _  _________')
+   time.sleep(0.1)
+   print('|     |    |_| \_______/ ')
+   time.sleep(0.1)
+   print('|     |           | |')
+   time.sleep(0.1)
+   print('|----|     | |    | |')
+   time.sleep(0.1)
+   print('|     |    | |    | |')
+   time.sleep(0.1)
+   print('|_____|    | |    | |')    
 
 def main():
 
-   master = Tk()
+     
+    
 
-   label1 = Label(master, text='Arco Computing')
-   label1.pack()
 
    stocks = {
         "BCHARTS/ICBITUSD",
@@ -125,6 +133,6 @@ def backmain():
    
 
 
-
+intro()
 main()
 
