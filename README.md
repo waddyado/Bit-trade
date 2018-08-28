@@ -12,4 +12,6 @@ V0.1.2-----------------
 updated user interface
 fixed the stock of the 
 day bug
+working on premium 
+database dillemna 
 ----------------------
