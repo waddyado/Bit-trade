@@ -3,7 +3,13 @@ its the first version
 expect bugs
 please report them
 ---------------------
-V1.1-------------------
+V0.1.1----------------
 updated stock of day
-stock changes daily now
+stock changes daily 
+now
 -----------------------
+V0.1.2-----------------
+updated user interface
+fixed the stock of the 
+day bug
+----------------------
