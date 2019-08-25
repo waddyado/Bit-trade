@@ -1,3 +1,9 @@
+V2.0.1-------------
+complete overhaul
+i might update it if i feel like it
+i built this one from scratch for school
+and also it uses a txt file for stocks
+
 V0.1.0--------------
 its the first version
 expect bugs
