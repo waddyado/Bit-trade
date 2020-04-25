@@ -1,3 +1,1 @@
-key:Mhs1XxDISrfycdYWP5MaYWIYCFw9uLVf2frX8R9E2wSDUTSAhqdmroosfptQ58MB
-secret:nCpmdLF7NoiMI1ukb5BdOYARvAYSfpVy68goCqeO6BhK7nm3IhJPVDs7w4VKpvAa
-Binance Api
+
